@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "login": "Phystenia",
+  "seed": "#806DB1",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "stack",
+    "about",
+    "projects",
+    "wave",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Организация",
+    "name": "Phystenia",
+    "subtitle": "Сообщество девелоперов",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia, Vladimir"
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript · C#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Берем заказы",
+    "items": [
+      {
+        "icon": "plug_connect",
+        "label": "Плагины"
+      },
+      {
+        "icon": "web_traffic",
+        "label": "Сайты"
+      },
+      {
+        "icon": "emoji_people",
+        "label": "Скины"
+      },
+      {
+        "icon": "deployed_code",
+        "label": "3D Модели"
+      },
+      {
+        "icon": "add_2",
+        "label": "Прочее"
+      }
+    ]
+  },
+  "stack": {
+    "title": "На чем пишем",
+    "groups": [
+      {
+        "title": "База",
+        "items": [
+          {
+            "icon": "brand:openjdk",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Тулзы",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux?"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "ACatalog",
+      "ALTGnomeWiki"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/ngxQYqPm8R"
+      },
+      {
+        "icon": "link",
+        "url": "https://phystenia.life"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/orgs/Phystenia/repositories"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
